@@ -10,6 +10,8 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 Check out the live demo: https://recommender-movie-sys.herokuapp.com
 
+![alt text](https://github.com/Aryanvj00/Movie-Recommendation-app/blob/main/static/Preview.png)
+
 ### Sources of the datasets 
 
 1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
